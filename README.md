@@ -1,3 +1,3 @@
-Beatmaker using vanilla js!
+Beatmaker using vanilla js and css!
 
 # js-beatmaker
